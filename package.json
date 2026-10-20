@@ -1,0 +1,19 @@
+{
+  "name": "wl-colchoes-black-wl-2026-clone",
+  "version": "1.0.0",
+  "description": "Clone da landing page Black WL 2026 com dados de contato fictícios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "landing-page",
+    "clone",
+    "black-wl",
+    "colchoes",
+    "reforma"
+  ],
+  "author": "",
+  "license": "ISC"
+}
